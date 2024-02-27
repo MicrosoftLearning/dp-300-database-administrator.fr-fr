@@ -10,6 +10,8 @@ lab:
 
 Vous avez été embauché en tant qu’administrateur de bases de données senior pour aider à automatiser les opérations quotidiennes d’administration de base de données. Cette automatisation a pour objectif de s’assurer que les bases de données pour AdventureWorks continuent de fonctionner à des performances optimales, ainsi que de fournir des méthodes pour générer des alertes en fonction de certains critères. AdventureWorks utilise SQL Server à la fois comme infrastructure en tant que service (IaaS) et plateforme en tant que service (PaaS).
 
+**Remarque :** Ces exercices peuvent vous demander de copier et coller du code T-SQL et d’utiliser des ressources SQL existantes. Vérifiez que le code a été copié correctement, avant de l’exécuter.
+
 ## Créer un compte Automation
 
 1. Depuis la machine virtuelle du labo, démarrez une session de navigateur et naviguez vers [https://portal.azure.com](https://portal.azure.com/). Connectez-vous au portail à l’aide du **nom d’utilisateur** et du **mot de passe** Azure fournis dans l’onglet **Ressources** de cette machine virtuelle de labo.
@@ -203,7 +205,7 @@ Ensuite, vous allez planifier l’exécution régulière du runbook.
 
 1. Sélectionnez **Créer**, puis **OK**.
 
-1. La planification est maintenant créée et associée au runbook. Sélectionnez **OK**.
+1. La planification est maintenant créée et associée au runbook. Cliquez sur **OK**.
 
     ![Capture d’écran de la planification créée.](../images/dp-300-module-13-lab-28.png)
 
