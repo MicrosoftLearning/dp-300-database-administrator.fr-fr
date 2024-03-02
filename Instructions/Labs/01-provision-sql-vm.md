@@ -32,7 +32,7 @@ Vous êtes administrateur de base de données pour AdventureWorks. Vous avez bes
 
 1. Sur la page **Créer une machine virtuelle**, entrez les informations suivantes :
 
-    - **Abonnement** : &lt;Votre abonnement&gt;
+    - **Abonnement** : &lt;votre abonnement&gt;.
     - **Groupe de ressources** : &lt;votre groupe de ressources.&gt;
     - **Nom de machine virtuelle** : azureSQLServerVM
     - **Région :** &lt;votre région locale, identique à la région sélectionnée pour votre groupe de ressources.&gt;
@@ -113,11 +113,9 @@ Vous êtes administrateur de base de données pour AdventureWorks. Vous avez bes
 
     ![Image 26](../images/dp-300-module-01-lab-26.png)
 
-1. Sélectionnez le bouton Démarrer de Windows et tapez SSMS. Sélectionnez **Microsoft SQL Server Management Studio 18** dans la liste.  
+1. Sélectionnez le bouton Démarrer de Windows et tapez SSMS. Sélectionnez **Microsoft SQL Server Management Studio** dans la liste.  
 
-    ![Image 34](../images/dp-300-module-01-lab-34.png)
-
-1. Lorsque SSMS s’ouvre, remarquez que la boîte de dialogue **Se connecter au serveur** est préremplie avec le nom de l’instance par défaut. Cliquez sur **Se connecter**.
+1. Lorsque SSMS s’ouvre, notez que la boîte de dialogue **Se connecter au serveur** est préremplie avec le nom de l’instance par défaut. Sélectionnez **Se connecter**.
 
     ![Image 35](../images/dp-300-module-01-lab-35.png)
 
