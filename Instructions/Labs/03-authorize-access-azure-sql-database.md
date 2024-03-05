@@ -12,7 +12,7 @@ Les participants utiliseront les informations acquises dans les leçons pour con
 
 Vous avez été embauché en tant qu’administrateur de base de données senior dans le but de sécuriser l’environnement de base de données.
 
-**Remarque :** ces exercices vous demandent de copier et coller du code T-SQL. Vérifiez que le code a été copié correctement, avant de l’exécuter.
+**Remarque :** Ces exercices vous demandent de copier et coller du code T-SQL et d’utiliser des ressources SQL existantes. Vérifiez que le code a été copié correctement, avant de l’exécuter.
 
 ## Autoriser l’accès à Azure SQL Database avec Azure Active Directory
 
@@ -48,7 +48,7 @@ Vous avez été embauché en tant qu’administrateur de base de données senior
 
     Pour le champ **Nom d’utilisateur**, sélectionnez le **Nom d’utilisateur** Azure sous l’onglet **Ressources**.
 
-1. Cliquez sur **Se connecter**.
+1. Sélectionnez **Se connecter**.
 
 > [!NOTE]
 > Lorsque vous tentez de vous connecter pour la première fois à une base de données Azure SQL, l’adresse IP de votre client doit être ajoutée au pare-feu. SQL Server Management Studio peut le faire pour vous. Utilisez le **mot de passe** du portail Azure sous l’onglet **Ressources**, sélectionnez **Se connecter**, choisissez vos informations d’identification Azure, puis sélectionnez **OK**.
