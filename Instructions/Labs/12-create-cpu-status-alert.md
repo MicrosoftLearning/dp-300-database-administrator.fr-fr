@@ -10,6 +10,8 @@ lab:
 
 Vous avez été embauché en tant qu’ingénieur Données senior pour aider à automatiser les opérations quotidiennes d’administration de base de données. Cette automatisation a pour objectif de s’assurer que les bases de données pour AdventureWorks continuent de fonctionner à des performances optimales, ainsi que de fournir des méthodes pour générer des alertes en fonction de certains critères.
 
+**Remarque :** Ces exercices peuvent vous demander de copier et coller du code T-SQL et d’utiliser des ressources SQL existantes. Vérifiez que le code a été copié correctement, avant de l’exécuter.
+
 ## Créer une alerte quand un processeur dépasse 80 pour cent
 
 1. Dans la barre de recherche en haut du portail Azure, saisissez **SQL** et sélectionnez **bases de données SQL**. Sélectionnez le nom de la base de données **AdventureWorksLT** dans la liste.

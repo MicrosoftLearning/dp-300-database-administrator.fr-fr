@@ -12,7 +12,7 @@ Les participants utiliseront les informations acquises dans les leçons pour dé
 
 Vous avez été embauché en tant qu’administrateur de base de données pour identifier les problèmes liés aux performances et fournir des solutions viables aux problèmes détectés. Vous devez utiliser le portail Azure afin d’identifier les problèmes de performances et de suggérer des méthodes pour les résoudre.
 
-**Remarque :** ces exercices vous demandent de copier et coller du code T-SQL. Vérifiez que le code a été copié correctement, avant de l’exécuter.
+**Remarque :** Ces exercices vous demandent de copier et coller du code T-SQL et d’utiliser des ressources SQL existantes. Vérifiez que le code a été copié correctement, avant de l’exécuter.
 
 ## Examiner l’utilisation du processeur dans le portail Azure
 

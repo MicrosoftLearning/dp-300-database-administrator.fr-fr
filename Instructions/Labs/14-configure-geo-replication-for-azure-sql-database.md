@@ -10,6 +10,8 @@ lab:
 
 En tant qu’administrateur de base de données au sein d’AdventureWorks, vous devez activer la géoréplication pour Azure SQL Database, et vous assurer qu’elle fonctionne correctement. De plus, vous le basculerez manuellement vers une autre région à l’aide du portail.
 
+**Remarque :** Ces exercices peuvent vous demander de copier et coller du code T-SQL et d’utiliser des ressources SQL existantes. Vérifiez que le code a été copié correctement, avant de l’exécuter.
+
 ## Activer la géoréplication
 
 1. Depuis la machine virtuelle du labo, démarrez une session de navigateur et naviguez vers [https://portal.azure.com](https://portal.azure.com/). Connectez-vous au portail à l’aide du **nom d’utilisateur** et du **mot de passe** Azure fournis dans l’onglet **Ressources** de cette machine virtuelle de labo.
@@ -95,7 +97,7 @@ Une fois le réplica Azure SQL Database créé, vous allez effectuer un basculem
     ![Capture d’écran montrant un message d’avertissement de basculement forcé.](../images/dp-300-module-14-lab-14.png)
 
     > [!NOTE]
-    > Ce processus peut prendre plusieurs minutes. Lorsqu’il est terminé, les rôles basculent avec le réplica secondaire qui devient le nouveau principal, et l’ancien principal qui se retrouve le secondaire.
+    > Ce processus peut prendre quelques minutes. Lorsqu’il est terminé, les rôles basculent avec le réplica secondaire qui devient le nouveau principal, et l’ancien principal qui se retrouve le secondaire.
 
 Nous avons vu que la base de données secondaire accessible en lecture peut être dans la même région Azure que la base de données primaire, ou, plus communément, dans une autre région. Ce type de base de données secondaire accessible en lecture est également appelé géo-secondaires ou géo-réplicas.
 

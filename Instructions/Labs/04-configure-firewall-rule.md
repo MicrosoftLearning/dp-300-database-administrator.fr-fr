@@ -12,7 +12,7 @@ Les participants utiliseront les informations acquises dans les leçons pour con
 
 Vous avez été embauché en tant qu’administrateur de base de données senior dans le but de sécuriser l’environnement de base de données. Ces tâches se concentreront sur Azure SQL Database.
 
-**Remarque :** ces exercices vous demandent de copier et coller du code T-SQL. Vérifiez que le code a été copié correctement, avant de l’exécuter.
+**Remarque :** Ces exercices vous demandent de copier et coller du code T-SQL et d’utiliser des ressources SQL existantes. Vérifiez que le code a été copié correctement, avant de l’exécuter.
 
 ## Configurer des règles de pare-feu Azure SQL Database
 
@@ -53,7 +53,7 @@ Vous avez été embauché en tant qu’administrateur de base de données senior
 
 Description générée automatiquement](../images/dp-300-module-04-lab-6.png)
 
-1. Cliquez sur **Se connecter**.
+1. Cliquez sur **Connecter**.
 
 1. Dans l’Explorateur d’objets, développez le nœud du serveur, cliquez avec le bouton droit sur **Bases de données**. Cliquez sur **Importer une application de la couche Données**.
 
@@ -125,7 +125,7 @@ Description générée automatiquement](../images/dp-300-module-04-lab-13.png)
     - **Identifiant de connexion** : ContainedDemo
     - **Mot de passe** : P@ssw0rd01
 
-     Cliquez sur **Se connecter**.
+     Cliquez sur **Connecter**.
 
      Vous recevez l’erreur suivante.
 
