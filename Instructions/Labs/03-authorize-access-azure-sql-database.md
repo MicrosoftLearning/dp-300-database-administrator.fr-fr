@@ -24,7 +24,7 @@ Vous avez été embauché en tant qu’administrateur de base de données senior
 
     ![Capture d’écran de la page d’accueil du portail Azure, avec sélection de Toutes les ressources](../images/dp-300-module-03-lab-01.png)
 
-1. Sélectionnez le serveur Azure SQL Database **dp300-lab-xxxxxx**, où **xxxxxx** est une chaîne aléatoire, puis sélectionnez **Non configuré** à côté de **Administrateur Active Directory**.
+1. Sélectionnez le SQL Server **dp300-lab-xxxxxx**, où **xxxxxx** est une chaîne aléatoire, puis sélectionnez **Non configuré** en regard de **Administrateur Active Directory**.
 
     ![Capture d’écran de la sélection de Non configuré](../images/dp-300-module-03-lab-02.png)
 
