@@ -20,7 +20,7 @@ En tant qu’administrateur de base données pour AdventureWorks, vous devez sau
 
     ![Image 01](../images/dp-300-module-01-lab-34.png)
 
-1. Lorsque SSMS s’ouvre, remarquez que la boîte de dialogue **Se connecter au serveur** est préremplie avec le nom de l’instance par défaut. Cliquez sur **Se connecter**.
+1. Lorsque SSMS s’ouvre, remarquez que la boîte de dialogue **Se connecter au serveur** est préremplie avec le nom de l’instance par défaut. Sélectionnez **Connecter**.
 
     ![Image 02](../images/dp-300-module-07-lab-01.png)
 
