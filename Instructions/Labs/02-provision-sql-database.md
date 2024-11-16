@@ -38,7 +38,7 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Cliquez sur **+ Créer** pour ouvrir la page **Créer un réseau virtuel**. Sous l’onglet **Informations de base**, fournissez les informations suivantes :
 
-    - **Abonnement** : &lt;Votre abonnement&gt;
+    - **Abonnement** : &lt;votre abonnement&gt;.
     - **Groupe de ressources** : doit commencer par *contoso-rg*.
     - **Nom :** lab02-vnet
     - **Région :** sélectionnez la même région que celle dans laquelle votre groupe de ressources a été créé
@@ -49,7 +49,7 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Cliquez sur le lien du sous réseau **par défaut**. Notez que la **plage d’adresses de sous-réseau** que vous voyez peut être différente.
 
-1. Dans le volet **Modifier le sous-réseau** sur la droite, développez la liste déroulante **Services**, puis sélectionnez **Microsoft.Sql**. Sélectionnez **Enregistrer**.
+1. Dans le volet **Modifier le sous-réseau** sur la droite, développez la liste déroulante **Services**, puis sélectionnez **Microsoft.Sql**. Cliquez sur **Enregistrer**.
 
 ## Provisionner une base de données Azure SQL
 
@@ -63,7 +63,7 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Sur la page **Créer une base de données SQL**, sélectionnez les options suivantes dans l’onglet **Informations de base**, puis cliquez sur **Suivant : Mise en réseau**.
 
-    - **Abonnement** : &lt;Votre abonnement&gt;
+    - **Abonnement** : &lt;votre abonnement&gt;.
     - **Groupe de ressources** : doit commencer par *contoso-rg*.
     - **Nom de la base de données** : AdventureWorksLT
     - **Serveur :** cliquez sur **Créer un lien**. La page **Créer un serveur SQL Database** s’ouvre. Fournissez les détails du serveur comme suit :
@@ -97,7 +97,7 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Complétez le volet droit **Créer un point de terminaison privé** comme suit :
 
-    - **Abonnement** : &lt;Votre abonnement&gt;
+    - **Abonnement** : &lt;votre abonnement&gt;.
     - **Groupe de ressources** : doit commencer par *contoso-rg*.
     - **Emplacement :** &lt;votre région locale, identique à la région sélectionnée pour votre groupe de ressources, sinon l’opération risque d’échouer.&gt;
     - **Nom :** DP-300-SQL-Endpoint
