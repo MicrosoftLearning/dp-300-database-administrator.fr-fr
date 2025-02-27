@@ -45,12 +45,6 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Cliquez sur **Vérifier + créer**, vérifiez les paramètres du nouveau réseau virtuel, puis cliquez sur **Créer**.
 
-1. Configurez la plage d’adresses IP du réseau virtuel pour le point de terminaison de la base de données Azure SQL en naviguant vers le réseau virtuel créé et, dans le volet **Paramètres**, cliquez sur **Sous-réseaux**.
-
-1. Cliquez sur le lien du sous réseau **par défaut**. Notez que la **plage d’adresses de sous-réseau** que vous voyez peut être différente.
-
-1. Dans le volet **Modifier le sous-réseau** sur la droite, développez la liste déroulante **Services**, puis sélectionnez **Microsoft.Sql**. Cliquez sur **Enregistrer**.
-
 ## Provisionner une base de données Azure SQL
 
 1. Dans le Portail Azure, recherchez « Bases de données SQL » dans le champ de recherche situé en haut de la page, puis cliquez sur **Bases de données SQL** dans la liste des options.
