@@ -12,25 +12,31 @@ Dans l’idéal, vous devez suivre ces labos dans un environnement de labo hébe
 
 > &#128221; Les instructions ci-dessous s’appliquent aux ordinateurs Windows 10. Vous pouvez également utiliserLinux ou MacOS. Vous devrez peut-être adapter les instructions du labo pour votre système d’exploitation choisi.
 
-### Système d’exploitation Windows 10
+### Windows 11 (OS)
 
-1. Installez Windows 10 (*version 2004 ou ultérieure*).
+1. Installez Windows 11.
 
 1. Appliquer toutes les mises à jour disponibles
 
 ### Edge
 
-1. Installez la dernière version de Microsoft Edge à partir de [microsoft.com/edge].
+1. Installez la dernière version de Microsoft Edge à partir de [https://microsoft.com/edge].
 
 ### Git
 
-1. Téléchargez et installez à partir de [git-scm.com/downloads].
+1. Téléchargez et installez à partir de [https://git-scm.com/downloads].
+
+    - Utilisez les options par défaut dans le programme d’installation.
+
+### Azure CLI
+
+1. Téléchargez et installez à partir de [https://aka.ms/installazurecliwindows].
 
     - Utilisez les options par défaut dans le programme d’installation.
 
 ### Visual Studio Code
 
-1. Téléchargez et installez à partir de [code.visualstudio.com/download].
+1. Téléchargez et installez à partir de [https://code.visualstudio.com/download].
 
     - Utilisez les options par défaut dans le programme d’installation.
 
@@ -40,8 +46,10 @@ Dans l’idéal, vous devez suivre ces labos dans un environnement de labo hébe
 
     - Utilisez les options par défaut dans le programme d’installation.
 
-### Azure Data Studio
+### SQL Server 2022 Developer Edition
 
-1. Téléchargez et installez à partir de [https://docs.microsoft.com/sql/azure-data-studio/download-azure-data-studio].
+1. Téléchargez et installez à partir de [https://www.microsoft.com/en-us/sql-server/sql-server-downloads].
 
-    - Utilisez les options par défaut dans le programme d’installation.
+    - Utilisez les options par défaut dans le programme d’installation. Seul le moteur de base de données SQL Server est requis pour ces labos.
+    - Vous pouvez utiliser l’instance par défaut.
+    - Vous pouvez utiliser le mode d’authentification par défaut.
