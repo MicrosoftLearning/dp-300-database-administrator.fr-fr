@@ -14,7 +14,7 @@ Vous êtes administrateur de base de données pour AdventureWorks. Vous avez bes
 
 ## Déployer SQL Server sur une machine virtuelle Azure
 
-1. Depuis la machine virtuelle du labo, démarrez une session de navigation et naviguez vers [https://portal.azure.com](https://portal.azure.com/), puis connectez-vous à l’aide du compte Microsoft associé à votre abonnement Azure.
+1. Démarrez une session de navigation et accédez à [https://portal.azure.com](https://portal.azure.com/), puis connectez-vous à l’aide du compte Microsoft associé à votre abonnement Azure.
 
 1. Repérez la barre de recherche située en haut de la page. Recherchez **Azure SQL**. Sélectionnez le résultat de recherche **Azure SQL** qui apparaît sous **Services**.
 
