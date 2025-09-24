@@ -82,6 +82,10 @@ Connectez-vous à Azure et vérifiez si vous disposez d’une instance Azure SQL
     **Remarque** : cette fonctionnalité est en préversion.
 
 1. Sélectionnez le nom d’utilisateur ou d’utilisatrice de l’administrateur ou de l’administratrice SQL Server et entrez le mot de passe ou vos informations d’identification Microsoft Entra s’ils sont affectés pour se connecter à la base de données.
+    - **Nom du serveur** : &lt;_collez le nom de votre serveur Azure SQL Database ici._&gt;
+    - **Authentification :** authentification SQL Server
+    - **Identifiant d’administration du serveur :** votre identifiant d’administration du serveur Azure SQL Database
+    - **Mot de passe :** votre mot de passe d’administration du serveur Azure SQL Database
 
 1. Dans **Requête 1**, entrez la requête suivante, puis sélectionnez **Exécuter** :
 
