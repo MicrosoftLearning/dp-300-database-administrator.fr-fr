@@ -28,9 +28,9 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Dans le volet de navigation de gauche, sélectionner **Réseaux virtuels**  
 
-1. Sélectionnez **+ Créer** pour ouvrir la page **Créer un réseau virtuel**. Sous l’onglet **Informations de base**, fournissez les informations suivantes :
+1. Sélectionnez **+ Créer** pour ouvrir la page **Créer un réseau virtuel**. Sous l’onglet **Informations de base**, renseignez les informations suivantes :
 
-    - **Abonnement** : &lt;votre abonnement&gt;.
+    - **Abonnement** : &lt;Votre abonnement&gt;
     - **Groupe de ressources :** commençant par *DP300* ou le groupe de ressources que vous avez sélectionné précédemment.
     - **Nom :** lab02-vnet
     - **Région :** sélectionnez la même région que celle dans laquelle votre groupe de ressources a été créé
@@ -45,7 +45,7 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Sur la page **Créer une base de données SQL**, sélectionnez les options suivantes dans l’onglet **Informations de base**, puis sélectionnez **Suivant : mise en réseau**.
 
-    - **Abonnement** : &lt;votre abonnement&gt;.
+    - **Abonnement** : &lt;Votre abonnement&gt;
     - **Groupe de ressources :** commençant par *DP300* ou le groupe de ressources que vous avez sélectionné précédemment.
     - **Nom de la base de données** : AdventureWorksLT
     - **Serveur :**  sélectionnez le lien **Créer nouveau**. La page **Créer un serveur SQL Database** s’ouvre. Fournissez les détails du serveur comme suit :
@@ -70,7 +70,7 @@ En tant qu’administrateur de base de données pour AdventureWorks, vous allez 
 
 1. Complétez le volet droit **Créer un point de terminaison privé** comme suit :
 
-    - **Abonnement** : &lt;votre abonnement&gt;.
+    - **Abonnement** : &lt;Votre abonnement&gt;
     - **Groupe de ressources :** commençant par *DP300* ou le groupe de ressources que vous avez sélectionné précédemment.
     - **Emplacement :** &lt;votre région locale, identique à la région sélectionnée pour votre groupe de ressources, sinon l’opération risque d’échouer.&gt;
     - **Nom :** DP-300-SQL-Endpoint
