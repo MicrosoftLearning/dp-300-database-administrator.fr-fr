@@ -1,12 +1,4 @@
-#README
-
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
-
-# DP-300 : Administration des solutions Microsoft Azure SQL
+# DP-300 : Mettre en œuvre des solutions de base de données évolutives à l'aide d'Azure SQL
 
 - **Êtes-vous un MCT ?** - Consultez notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
 
